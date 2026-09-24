@@ -1,4 +1,4 @@
-# Superstore Returns Analysis
+# Retail Returns Analysis
 
 **[View the live Tableau Story on Tableau Public →](https://public.tableau.com/views/S5Project-StorytellingwithData-RICE3v2_2/Story2)**
 
@@ -8,7 +8,7 @@
 
 ## Business Question
 
-What's causing the high number of returned orders at the Superstore, and how can the business reduce it? Built as an analysis for a CEO-level audience.
+What's causing the high number of returned orders at a retail chain, and how can the business reduce it? Built as an analysis for a CEO-level audience.
 
 ## Tools & Skills
 
@@ -29,10 +29,10 @@ Six views were built to test different possible causes of returns:
 
 ## Data
 
-Tableau's public "Superstore" sample dataset (Orders + Returns tables, left-joined) — a widely used practice dataset, not real business data.
+A public Tableau retail sales dataset (Orders + Returns tables, left-joined) — a widely used BI practice dataset, not real business data.
 
 ## Documentation
 
 - [`docs/rubric.pdf`](docs/rubric.pdf) — the grading rubric this project was built against
 - [`docs/dashboard-mockup-sketch-1.jpg`](docs/dashboard-mockup-sketch-1.jpg), [`-2`](docs/dashboard-mockup-sketch-2.jpg), [`-3`](docs/dashboard-mockup-sketch-3.jpg) — hand-drawn dashboard mock-ups from the design phase
-- [`tableau/superstore-returns-analysis.twbx`](tableau/superstore-returns-analysis.twbx) — packaged Tableau workbook (opens directly in [Tableau Desktop or Tableau Public](https://www.tableau.com/products/public/download), data included)
+- [`tableau/retail-returns-analysis.twbx`](tableau/retail-returns-analysis.twbx) — packaged Tableau workbook (opens directly in [Tableau Desktop or Tableau Public](https://www.tableau.com/products/public/download), data included)
